@@ -1,0 +1,143 @@
+html{
+    //background: #E5E5E5;
+    margin: 0;
+    box-sizing: border-box;
+}
+#header{
+	position:relative;
+width: 1335px;
+height: 50px;
+left: 30px;
+top: 35px;
+}
+#container{
+	
+}
+#test1{
+    height: 215px;
+    width: 952px;
+    border-radius: nullpx;
+	position:absolute;
+	text-align:left;
+    color :#03256C;
+	bottom:270px;
+	margin-left:30px;
+	
+	font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 46px;
+    }
+#image{
+	position: absolute;
+left: 3.26%;
+right: 56.52%;
+top: 40.66%;
+bottom: 12.76%;
+}
+#form{
+position: absolute;
+width: 425px;
+height: 651px;
+left: 810px;
+top: 80px;
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+input[type=text]{
+margin:5px;
+width: 385px;
+height: 36px;
+top: 177px;
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+border: 2px solid #2541B2;
+border-radius: 1px;
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+margin-left:15px;
+}
+#policy{
+	width: 477px;
+height: 9px;
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12.5px;
+line-height: 50.9%;
+color: #464646;
+margin-left:2px;
+
+}
+input[type=checkbox]{
+width: 26px;
+height: 24px;
+left: 0px;
+top: 0px;
+border: 2px solid #03256C;
+margin:7px;
+margin-left:15px;
+}
+#signup_button{
+color:#fff;
+width: 400px;
+Height : 26.25px;
+position: absolute;
+left: 3.5%;
+right: 8%;
+background: #03256C;
+border-radius: 50px;
+bottom:22.89%;
+}
+#account{
+position: absolute;
+width: 229px;
+height: 20px;
+left: 120px;
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 112.9%;
+color: #464646;
+bottom:15%;
+}
+#signin_button{
+	width: 400px;
+Height : 26.25px;
+position: absolute;
+left: 4.8%;
+right: 8%;
+bottom:7%;
+border: 3px solid #03256C;
+box-sizing: border-box;
+border-radius: 50px;
+color: #03256C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+}
+label{
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+color: #2541B2;
+margin:7px;
+margin-left:15px;
+padding-top:10px;
+}
+footer{
+		position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 1335px;
+height: 50px;
+margin:5px;
+
+	}
